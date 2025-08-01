@@ -77,9 +77,10 @@ Um sistema de perguntas e respostas baseado em seus documentos PDF, comparando d
    3 - Bateria de testes: Executa uma bateria de testes automatizada com perguntas pré-definidas em um arquivo csv.
    4 - Sair
 
-────────────────────
+─────────────────────────
 📂 ESTRUTURA DE ARQUIVOS
-────────────────────
+─────────────────────────
+
 /sua_pasta/
    │
    ├── base_dados/       (Coloque seus PDFs aqui)
