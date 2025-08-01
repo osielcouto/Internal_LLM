@@ -1,5 +1,5 @@
 """
-Avaliaç˜ao de Bases de Dados Técnicas com Modelos de Linguagem de Grande Escala:  Um Estudo Aplicado ao Wi-Fi 7
+Avaliação de Bases de Dados Técnicas com Modelos de Linguagem de Grande Escala:  Um Estudo Aplicado ao Wi-Fi 7
 Autor: Osiel do Couto Rosa
 
 Este sistema permite:
@@ -650,4 +650,5 @@ if __name__ == "__main__":
         print("  Crie o diretório ou ajuste a variável PDF_DIR no código.")
         exit(1)
     
+
     main()
