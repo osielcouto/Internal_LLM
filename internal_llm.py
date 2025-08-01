@@ -30,7 +30,7 @@ from langchain_text_splitters import CharacterTextSplitter
 # ==============================================
 
 # Diretório contendo os documentos em PDF
-PDF_DIR = "./base_tcc"  # Caminho da pasta de documentos
+PDF_DIR = "./base_examplo"  # Caminho da pasta de documentos
 
 # Nome do índice FAISS para armazenar os embeddings
 FAISS_INDEX = "faiss_index"  # Pode ser alterado se necessário
@@ -652,3 +652,4 @@ if __name__ == "__main__":
     
 
     main()
+
